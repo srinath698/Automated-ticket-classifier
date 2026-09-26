@@ -3,7 +3,7 @@ An ML-powered support ticket classifier that automatically categorizes customer 
 
 # 🎫 Automated Ticket Classifier
 
-An end-to-end machine learning project designed to automatically classify customer support tickets into relevant categories using **Natural Language Processing (NLP)** and **Machine Learning**.
+An end-to-end machine learning project designed to automatically classify customer support tickets into relevant categories using **Natural Language Processing (NLP)** and **Machine Learning(logistic regression)**.
 
 The goal of this project is to build a practical support-ticket automation system that can understand incoming customer complaints or requests and automatically route them to the appropriate category.
 
