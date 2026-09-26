@@ -1,0 +1,2001 @@
+text,label
+Subscription not renewing properly.,billing_issue
+Two-factor auth broken.,account_problem
+How do I PDF?,general_inquiry
+No receipt after purchase.,billing_issue
+Can we add support for search?,feature_request
+Delete my account please.,account_problem
+Data not saving properly after 12345.,bug
+Billing error: card declined but charged.,billing_issue
+Would love a search button.,feature_request
+"Forgot password, reset not working.",account_problem
+Multi-language support for CSV?,feature_request
+Please add export to PDF.,feature_request
+Overcharged by dashboard on 404.,billing_issue
+Account suspended without reason.,account_problem
+UI is broken on Google. Can you fix?,bug
+Would love a query test button.,feature_request
+Shortcut keys for email.,feature_request
+App freezes on 2023-01. Please help.,bug
+UI is broken on email. Can you fix?,bug
+Where is my invoice for email?,billing_issue
+Images not loading in Android.,bug
+Payment not recognized for 12345.,billing_issue
+Verify phone number issue.,account_problem
+Add integration with PDF.,feature_request
+Request: dark mode for Slack.,feature_request
+Can we add support for query test?,feature_request
+Merge accounts users and export.,account_problem
+The app crashes when I try to PDF.,bug
+Upgrade to CSV but still on old.,billing_issue
+Verify phone number issue.,account_problem
+Subscription not renewing properly.,billing_issue
+Delete my account please.,account_problem
+Subscription not renewing properly.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Data not saving properly after 12345.,bug
+Is new@example.com available?,general_inquiry
+What is the price for basic?,general_inquiry
+Privacy policy question.,general_inquiry
+Login fails with error web.,bug
+How do I users?,general_inquiry
+Data not saving properly after premium.,bug
+Change email from 67890 to premium.,account_problem
+Slow performance during basic.,bug
+Overcharged by iOS on Android.,billing_issue
+404 button does nothing.,bug
+"Forgot password, reset not working.",account_problem
+Cannot login: invalid credentials.,account_problem
+The app crashes when I try to Jan.,bug
+Change email from $20 to 2023-01.,account_problem
+Upgrade to PDF but still on old.,billing_issue
+"Forgot password, reset not working.",account_problem
+Login fails with error $10.,bug
+Charged twice for 12345. Refund?,billing_issue
+Is 404 available?,general_inquiry
+Where to find profile?,general_inquiry
+How do I $20?,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Demo request.,general_inquiry
+Recommended setup for Google.,general_inquiry
+Is Android available?,general_inquiry
+Slow performance during save.,bug
+Verify phone number issue.,account_problem
+Shortcut keys for save.,feature_request
+Privacy policy question.,general_inquiry
+Cancel subscription failed.,billing_issue
+Payment not recognized for old@example.com.,billing_issue
+Merge accounts dashboard and 404.,account_problem
+Can we add support for 67890?,feature_request
+Data not saving properly after query test.,bug
+What is the price for 67890?,general_inquiry
+Request: dark mode for 500.,feature_request
+Is Google available?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Where is my invoice for CSV?,billing_issue
+Add integration with email.,feature_request
+Where is my invoice for query test?,billing_issue
+Status of my ticket Google.,general_inquiry
+App freezes on search. Please help.,bug
+Feedback on 2023-01.,general_inquiry
+Profile pic not updating.,account_problem
+Charged twice for 67890. Refund?,billing_issue
+Data not saving properly after save.,bug
+The app crashes when I try to new@example.com.,bug
+Dispute charge of $20.,billing_issue
+Would love a 404 button.,feature_request
+Recommended setup for app.,general_inquiry
+Access denied to PDF.,account_problem
+Can we add support for app?,feature_request
+Feedback on basic.,general_inquiry
+Add integration with $20.,feature_request
+Dispute charge of $20.,billing_issue
+Login fails with error new@example.com.,bug
+Feedback on 404.,general_inquiry
+Overcharged by 500 on users.,billing_issue
+Add integration with dashboard.,feature_request
+Recommended setup for profile.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Search returns wrong results for $10.,bug
+No receipt after purchase.,billing_issue
+Slow performance during PDF.,bug
+Overcharged by 12345 on 67890.,billing_issue
+Feedback on login.,general_inquiry
+Access denied to old@example.com.,account_problem
+Need option to basic in bulk.,feature_request
+Contact sales for enterprise.,general_inquiry
+Need option to login in bulk.,feature_request
+Need option to dashboard in bulk.,feature_request
+Need option to Android in bulk.,feature_request
+Add integration with query test.,feature_request
+Overcharged by 500 on users.,billing_issue
+Search returns wrong results for web.,bug
+Subscription not renewing properly.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Account suspended without reason.,account_problem
+Cannot login: invalid credentials.,account_problem
+Billing error: card declined but charged.,billing_issue
+Login fails with error CSV.,bug
+Privacy policy question.,general_inquiry
+Payment not recognized for old@example.com.,billing_issue
+Would love a iOS button.,feature_request
+Error 2023-01 when opening $20.,bug
+No receipt after purchase.,billing_issue
+Multi-language support for app?,feature_request
+Would love a 2023-01 button.,feature_request
+Images not loading in dashboard.,bug
+Dispute charge of users.,billing_issue
+Where is my invoice for Slack?,billing_issue
+Data not saving properly after premium.,bug
+Add integration with Android.,feature_request
+UI is broken on login. Can you fix?,bug
+Delete my account please.,account_problem
+Add integration with export.,feature_request
+Overcharged by search on profile.,billing_issue
+Upgrade to users but still on old.,billing_issue
+What is the price for save?,general_inquiry
+Add integration with Feb.,feature_request
+Billing error: card declined but charged.,billing_issue
+Login fails with error 404.,bug
+Recommended setup for premium.,general_inquiry
+Feedback on basic.,general_inquiry
+Delete my account please.,account_problem
+Cannot login: invalid credentials.,account_problem
+Please add export to Feb.,feature_request
+Subscription not renewing properly.,billing_issue
+Please add export to web.,feature_request
+Change email from query test to login.,account_problem
+Access denied to app.,account_problem
+No receipt after purchase.,billing_issue
+Delete my account please.,account_problem
+Where to find old@example.com?,general_inquiry
+Two-factor auth broken.,account_problem
+App freezes on CSV. Please help.,bug
+Feature idea: auto-query test.,feature_request
+Cannot login: invalid credentials.,account_problem
+Contact sales for enterprise.,general_inquiry
+Feedback on 2023-01.,general_inquiry
+Privacy policy question.,general_inquiry
+How do I basic?,general_inquiry
+Request: dark mode for CSV.,feature_request
+Payment not recognized for 2023-01.,billing_issue
+Access denied to $10.,account_problem
+Access denied to Android.,account_problem
+App freezes on 404. Please help.,bug
+The app crashes when I try to 67890.,bug
+Overcharged by export on PDF.,billing_issue
+Data not saving properly after $20.,bug
+Two-factor auth broken.,account_problem
+Verify phone number issue.,account_problem
+The app crashes when I try to save.,bug
+Change email from Android to search.,account_problem
+What is the price for Google?,general_inquiry
+The app crashes when I try to 500.,bug
+Change email from query test to login.,account_problem
+Profile pic not updating.,account_problem
+Charged twice for 12345. Refund?,billing_issue
+Images not loading in profile.,bug
+Images not loading in Jan.,bug
+Two-factor auth broken.,account_problem
+Account suspended without reason.,account_problem
+Billing error: card declined but charged.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Login fails with error users.,bug
+Slow performance during Android.,bug
+Where to find export?,general_inquiry
+Request: dark mode for search.,feature_request
+Search returns wrong results for premium.,bug
+Profile pic not updating.,account_problem
+Verify phone number issue.,account_problem
+Slow performance during 500.,bug
+Dispute charge of 67890.,billing_issue
+Shortcut keys for Android.,feature_request
+Feedback on save.,general_inquiry
+Upgrade to dashboard but still on old.,billing_issue
+Access denied to email.,account_problem
+Search returns wrong results for app.,bug
+Search returns wrong results for PDF.,bug
+Search returns wrong results for CSV.,bug
+Is 2023-01 available?,general_inquiry
+Delete my account please.,account_problem
+Where is my invoice for premium?,billing_issue
+Demo request.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Multi-language support for profile?,feature_request
+Add integration with new@example.com.,feature_request
+Payment not recognized for premium.,billing_issue
+Error old@example.com when opening 2023-01.,bug
+Feature idea: auto-old@example.com.,feature_request
+Where is my invoice for web?,billing_issue
+Profile pic not updating.,account_problem
+Verify phone number issue.,account_problem
+Payment not recognized for login.,billing_issue
+Profile pic not updating.,account_problem
+UI is broken on 67890. Can you fix?,bug
+Verify phone number issue.,account_problem
+Verify phone number issue.,account_problem
+Feedback on Android.,general_inquiry
+Can we add support for iOS?,feature_request
+App freezes on profile. Please help.,bug
+Payment not recognized for CSV.,billing_issue
+Verify phone number issue.,account_problem
+Status of my ticket dashboard.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Slow performance during 2023-01.,bug
+Two-factor auth broken.,account_problem
+Access denied to export.,account_problem
+Demo request.,general_inquiry
+Feedback on profile.,general_inquiry
+Need option to $10 in bulk.,feature_request
+Images not loading in 404.,bug
+Billing error: card declined but charged.,billing_issue
+Feature idea: auto-PDF.,feature_request
+Upgrade to PDF but still on old.,billing_issue
+Slow performance during 12345.,bug
+What is the price for 2023-01?,general_inquiry
+Would love a premium button.,feature_request
+Is Slack available?,general_inquiry
+Feature idea: auto-$10.,feature_request
+Please implement login like in competitors.,feature_request
+Cancel subscription failed.,billing_issue
+Dispute charge of 67890.,billing_issue
+Delete my account please.,account_problem
+Contact sales for enterprise.,general_inquiry
+Error Jan when opening web.,bug
+Recommended setup for 12345.,general_inquiry
+Shortcut keys for 404.,feature_request
+Images not loading in 67890.,bug
+Account suspended without reason.,account_problem
+Delete my account please.,account_problem
+Dispute charge of dashboard.,billing_issue
+No receipt after purchase.,billing_issue
+Upgrade to Feb but still on old.,billing_issue
+Would love a $10 button.,feature_request
+Where to find Android?,general_inquiry
+Slow performance during $10.,bug
+Upgrade to 500 but still on old.,billing_issue
+Demo request.,general_inquiry
+Slow performance during app.,bug
+Request: dark mode for Android.,feature_request
+Contact sales for enterprise.,general_inquiry
+Login fails with error CSV.,bug
+Multi-language support for Android?,feature_request
+Data not saving properly after 67890.,bug
+Demo request.,general_inquiry
+Access denied to basic.,account_problem
+Upgrade to query test but still on old.,billing_issue
+Request: dark mode for Android.,feature_request
+Would love a Jan button.,feature_request
+Request: dark mode for 404.,feature_request
+Feature idea: auto-Jan.,feature_request
+The app crashes when I try to Android.,bug
+Recommended setup for Android.,general_inquiry
+Error 67890 when opening 12345.,bug
+Cannot login: invalid credentials.,account_problem
+Slow performance during iOS.,bug
+Two-factor auth broken.,account_problem
+What is the price for 500?,general_inquiry
+Overcharged by premium on basic.,billing_issue
+Please add export to login.,feature_request
+UI is broken on 2023-01. Can you fix?,bug
+Data not saving properly after $10.,bug
+Where is my invoice for users?,billing_issue
+Profile pic not updating.,account_problem
+Account suspended without reason.,account_problem
+Profile pic not updating.,account_problem
+Please implement $10 like in competitors.,feature_request
+Shortcut keys for old@example.com.,feature_request
+Charged twice for dashboard. Refund?,billing_issue
+Overcharged by PDF on CSV.,billing_issue
+Search returns wrong results for 2023-01.,bug
+Privacy policy question.,general_inquiry
+Privacy policy question.,general_inquiry
+UI is broken on query test. Can you fix?,bug
+Data not saving properly after basic.,bug
+What is the price for $20?,general_inquiry
+Request: dark mode for iOS.,feature_request
+Multi-language support for iOS?,feature_request
+Subscription not renewing properly.,billing_issue
+Verify phone number issue.,account_problem
+Overcharged by query test on login.,billing_issue
+Where is my invoice for premium?,billing_issue
+Add integration with Feb.,feature_request
+Feature idea: auto-users.,feature_request
+Status of my ticket Jan.,general_inquiry
+Two-factor auth broken.,account_problem
+Payment not recognized for web.,billing_issue
+Can we add support for Slack?,feature_request
+Subscription not renewing properly.,billing_issue
+Privacy policy question.,general_inquiry
+Account suspended without reason.,account_problem
+Feature idea: auto-export.,feature_request
+Feature idea: auto-12345.,feature_request
+Can we add support for 500?,feature_request
+Please implement 12345 like in competitors.,feature_request
+Charged twice for login. Refund?,billing_issue
+UI is broken on 500. Can you fix?,bug
+Multi-language support for web?,feature_request
+Would love a profile button.,feature_request
+Request: dark mode for users.,feature_request
+Login fails with error search.,bug
+Contact sales for enterprise.,general_inquiry
+Delete my account please.,account_problem
+Account suspended without reason.,account_problem
+Access denied to query test.,account_problem
+Login fails with error Feb.,bug
+Search returns wrong results for Android.,bug
+The app crashes when I try to email.,bug
+No receipt after purchase.,billing_issue
+Is dashboard available?,general_inquiry
+Access denied to 2023-01.,account_problem
+App freezes on 67890. Please help.,bug
+Cancel subscription failed.,billing_issue
+Recommended setup for iOS.,general_inquiry
+Account suspended without reason.,account_problem
+Verify phone number issue.,account_problem
+Recommended setup for 404.,general_inquiry
+Android button does nothing.,bug
+The app crashes when I try to PDF.,bug
+Overcharged by CSV on email.,billing_issue
+Status of my ticket Jan.,general_inquiry
+Delete my account please.,account_problem
+Can we add support for users?,feature_request
+Can we add support for CSV?,feature_request
+How do I save?,general_inquiry
+Google button does nothing.,bug
+"Forgot password, reset not working.",account_problem
+No receipt after purchase.,billing_issue
+Verify phone number issue.,account_problem
+How do I dashboard?,general_inquiry
+Login fails with error 67890.,bug
+Cannot login: invalid credentials.,account_problem
+Account suspended without reason.,account_problem
+Where is my invoice for export?,billing_issue
+Status of my ticket Feb.,general_inquiry
+Recommended setup for Feb.,general_inquiry
+Data not saving properly after Android.,bug
+Change email from search to profile.,account_problem
+Subscription not renewing properly.,billing_issue
+CSV button does nothing.,bug
+Upgrade to web but still on old.,billing_issue
+Login fails with error email.,bug
+Multi-language support for save?,feature_request
+Can we add support for login?,feature_request
+Overcharged by query test on login.,billing_issue
+Two-factor auth broken.,account_problem
+$20 button does nothing.,bug
+Profile pic not updating.,account_problem
+Privacy policy question.,general_inquiry
+Would love a $10 button.,feature_request
+Need option to $10 in bulk.,feature_request
+Feature idea: auto-query test.,feature_request
+Upgrade to PDF but still on old.,billing_issue
+Shortcut keys for Feb.,feature_request
+Would love a web button.,feature_request
+Feature idea: auto-new@example.com.,feature_request
+Where to find PDF?,general_inquiry
+Delete my account please.,account_problem
+Contact sales for enterprise.,general_inquiry
+What is the price for save?,general_inquiry
+Delete my account please.,account_problem
+What is the price for PDF?,general_inquiry
+Upgrade to new@example.com but still on old.,billing_issue
+Add integration with web.,feature_request
+Demo request.,general_inquiry
+Feature idea: auto-search.,feature_request
+Slow performance during 67890.,bug
+Verify phone number issue.,account_problem
+App freezes on web. Please help.,bug
+Please add export to Slack.,feature_request
+Request: dark mode for 12345.,feature_request
+Search returns wrong results for basic.,bug
+Would love a 404 button.,feature_request
+"Forgot password, reset not working.",account_problem
+Subscription not renewing properly.,billing_issue
+Feedback on login.,general_inquiry
+UI is broken on profile. Can you fix?,bug
+Contact sales for enterprise.,general_inquiry
+Profile pic not updating.,account_problem
+Subscription not renewing properly.,billing_issue
+Would love a 67890 button.,feature_request
+Where to find 2023-01?,general_inquiry
+Please add export to save.,feature_request
+Access denied to $10.,account_problem
+Please add export to premium.,feature_request
+Profile pic not updating.,account_problem
+Is users available?,general_inquiry
+Feedback on premium.,general_inquiry
+Data not saving properly after app.,bug
+Delete my account please.,account_problem
+UI is broken on Android. Can you fix?,bug
+Merge accounts Feb and $10.,account_problem
+Access denied to 12345.,account_problem
+Need option to $20 in bulk.,feature_request
+Error 67890 when opening 12345.,bug
+Cancel subscription failed.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Would love a Google button.,feature_request
+Can we add support for Feb?,feature_request
+Shortcut keys for $20.,feature_request
+Slow performance during export.,bug
+Where is my invoice for $20?,billing_issue
+Please add export to Feb.,feature_request
+12345 button does nothing.,bug
+Cannot login: invalid credentials.,account_problem
+Two-factor auth broken.,account_problem
+Contact sales for enterprise.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Verify phone number issue.,account_problem
+Privacy policy question.,general_inquiry
+"Forgot password, reset not working.",account_problem
+Request: dark mode for profile.,feature_request
+Contact sales for enterprise.,general_inquiry
+Request: dark mode for 500.,feature_request
+Account suspended without reason.,account_problem
+Charged twice for old@example.com. Refund?,billing_issue
+CSV button does nothing.,bug
+App freezes on $20. Please help.,bug
+Payment not recognized for 2023-01.,billing_issue
+Error 500 when opening 404.,bug
+Slow performance during Slack.,bug
+Contact sales for enterprise.,general_inquiry
+Privacy policy question.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Profile pic not updating.,account_problem
+Contact sales for enterprise.,general_inquiry
+Account suspended without reason.,account_problem
+Data not saving properly after Google.,bug
+"Forgot password, reset not working.",account_problem
+Upgrade to Jan but still on old.,billing_issue
+Please add export to query test.,feature_request
+Charged twice for new@example.com. Refund?,billing_issue
+Change email from 500 to users.,account_problem
+Search returns wrong results for Google.,bug
+Cancel subscription failed.,billing_issue
+Verify phone number issue.,account_problem
+Please implement CSV like in competitors.,feature_request
+Shortcut keys for login.,feature_request
+Google button does nothing.,bug
+Need option to Feb in bulk.,feature_request
+Verify phone number issue.,account_problem
+Where to find search?,general_inquiry
+Privacy policy question.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Can we add support for dashboard?,feature_request
+Overcharged by Jan on Feb.,billing_issue
+The app crashes when I try to old@example.com.,bug
+UI is broken on 404. Can you fix?,bug
+Would love a Feb button.,feature_request
+Access denied to CSV.,account_problem
+The app crashes when I try to iOS.,bug
+Contact sales for enterprise.,general_inquiry
+Feature idea: auto-search.,feature_request
+Account suspended without reason.,account_problem
+Cancel subscription failed.,billing_issue
+Recommended setup for basic.,general_inquiry
+UI is broken on $20. Can you fix?,bug
+Images not loading in app.,bug
+Where to find profile?,general_inquiry
+Merge accounts profile and dashboard.,account_problem
+Slack button does nothing.,bug
+Account suspended without reason.,account_problem
+12345 button does nothing.,bug
+Login fails with error login.,bug
+Privacy policy question.,general_inquiry
+Cancel subscription failed.,billing_issue
+Change email from profile to dashboard.,account_problem
+Images not loading in export.,bug
+Payment not recognized for 12345.,billing_issue
+Is 12345 available?,general_inquiry
+Cancel subscription failed.,billing_issue
+Billing error: card declined but charged.,billing_issue
+Images not loading in Jan.,bug
+Cannot login: invalid credentials.,account_problem
+Data not saving properly after premium.,bug
+Login fails with error users.,bug
+Shortcut keys for save.,feature_request
+Charged twice for Jan. Refund?,billing_issue
+Login fails with error Feb.,bug
+Feedback on 500.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Merge accounts PDF and CSV.,account_problem
+Please add export to search.,feature_request
+Search returns wrong results for dashboard.,bug
+No receipt after purchase.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Need option to PDF in bulk.,feature_request
+Demo request.,general_inquiry
+Privacy policy question.,general_inquiry
+Please add export to new@example.com.,feature_request
+Cannot login: invalid credentials.,account_problem
+Access denied to premium.,account_problem
+UI is broken on old@example.com. Can you fix?,bug
+Verify phone number issue.,account_problem
+Delete my account please.,account_problem
+The app crashes when I try to 12345.,bug
+Can we add support for 404?,feature_request
+App freezes on dashboard. Please help.,bug
+Need option to CSV in bulk.,feature_request
+Is $10 available?,general_inquiry
+Charged twice for 404. Refund?,billing_issue
+Delete my account please.,account_problem
+Can we add support for 67890?,feature_request
+How do I old@example.com?,general_inquiry
+Subscription not renewing properly.,billing_issue
+Is $10 available?,general_inquiry
+Login fails with error iOS.,bug
+email button does nothing.,bug
+Demo request.,general_inquiry
+Feedback on CSV.,general_inquiry
+Data not saving properly after Slack.,bug
+"Forgot password, reset not working.",account_problem
+Search returns wrong results for old@example.com.,bug
+Demo request.,general_inquiry
+Verify phone number issue.,account_problem
+Payment not recognized for PDF.,billing_issue
+Delete my account please.,account_problem
+Would love a Android button.,feature_request
+users button does nothing.,bug
+Multi-language support for old@example.com?,feature_request
+Login fails with error 12345.,bug
+Feature idea: auto-Feb.,feature_request
+The app crashes when I try to CSV.,bug
+No receipt after purchase.,billing_issue
+Overcharged by old@example.com on new@example.com.,billing_issue
+Cancel subscription failed.,billing_issue
+App freezes on dashboard. Please help.,bug
+Contact sales for enterprise.,general_inquiry
+Merge accounts basic and query test.,account_problem
+Profile pic not updating.,account_problem
+Login fails with error dashboard.,bug
+"Forgot password, reset not working.",account_problem
+Cancel subscription failed.,billing_issue
+How do I export?,general_inquiry
+The app crashes when I try to email.,bug
+Status of my ticket export.,general_inquiry
+Request: dark mode for basic.,feature_request
+Overcharged by 500 on users.,billing_issue
+PDF button does nothing.,bug
+The app crashes when I try to premium.,bug
+Login fails with error 2023-01.,bug
+Demo request.,general_inquiry
+"Forgot password, reset not working.",account_problem
+Feature idea: auto-2023-01.,feature_request
+No receipt after purchase.,billing_issue
+Please implement 2023-01 like in competitors.,feature_request
+Upgrade to basic but still on old.,billing_issue
+Upgrade to Feb but still on old.,billing_issue
+Feature idea: auto-premium.,feature_request
+Verify phone number issue.,account_problem
+Delete my account please.,account_problem
+Recommended setup for query test.,general_inquiry
+Images not loading in web.,bug
+Slow performance during basic.,bug
+Login fails with error email.,bug
+Change email from $20 to 2023-01.,account_problem
+Demo request.,general_inquiry
+Cancel subscription failed.,billing_issue
+What is the price for email?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Please implement old@example.com like in competitors.,feature_request
+Dispute charge of export.,billing_issue
+Subscription not renewing properly.,billing_issue
+What is the price for dashboard?,general_inquiry
+Privacy policy question.,general_inquiry
+Where is my invoice for Google?,billing_issue
+Search returns wrong results for iOS.,bug
+UI is broken on Jan. Can you fix?,bug
+The app crashes when I try to save.,bug
+Images not loading in 12345.,bug
+Cannot login: invalid credentials.,account_problem
+Privacy policy question.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+"Forgot password, reset not working.",account_problem
+Verify phone number issue.,account_problem
+Search returns wrong results for 404.,bug
+No receipt after purchase.,billing_issue
+Data not saving properly after new@example.com.,bug
+Search returns wrong results for Jan.,bug
+Request: dark mode for web.,feature_request
+"Forgot password, reset not working.",account_problem
+Account suspended without reason.,account_problem
+Feedback on Slack.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Login fails with error users.,bug
+Add integration with 500.,feature_request
+Can we add support for basic?,feature_request
+Where is my invoice for profile?,billing_issue
+Recommended setup for email.,general_inquiry
+Feature idea: auto-premium.,feature_request
+Overcharged by login on save.,billing_issue
+Is Google available?,general_inquiry
+Add integration with Google.,feature_request
+Account suspended without reason.,account_problem
+The app crashes when I try to save.,bug
+Contact sales for enterprise.,general_inquiry
+Profile pic not updating.,account_problem
+Where is my invoice for Slack?,billing_issue
+UI is broken on save. Can you fix?,bug
+Feedback on Android.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Please add export to iOS.,feature_request
+Overcharged by save on iOS.,billing_issue
+Privacy policy question.,general_inquiry
+App freezes on app. Please help.,bug
+UI is broken on PDF. Can you fix?,bug
+Upgrade to 12345 but still on old.,billing_issue
+Privacy policy question.,general_inquiry
+The app crashes when I try to CSV.,bug
+Cannot login: invalid credentials.,account_problem
+Status of my ticket premium.,general_inquiry
+Images not loading in iOS.,bug
+Shortcut keys for web.,feature_request
+Login fails with error save.,bug
+Contact sales for enterprise.,general_inquiry
+No receipt after purchase.,billing_issue
+Two-factor auth broken.,account_problem
+Verify phone number issue.,account_problem
+Demo request.,general_inquiry
+Feedback on $20.,general_inquiry
+Images not loading in app.,bug
+What is the price for new@example.com?,general_inquiry
+Images not loading in new@example.com.,bug
+Charged twice for email. Refund?,billing_issue
+Merge accounts iOS and Android.,account_problem
+Access denied to basic.,account_problem
+Login fails with error Slack.,bug
+Cannot login: invalid credentials.,account_problem
+Status of my ticket 67890.,general_inquiry
+Login fails with error app.,bug
+UI is broken on 2023-01. Can you fix?,bug
+UI is broken on iOS. Can you fix?,bug
+Please add export to save.,feature_request
+What is the price for export?,general_inquiry
+App freezes on dashboard. Please help.,bug
+Upgrade to Feb but still on old.,billing_issue
+Feedback on query test.,general_inquiry
+Status of my ticket new@example.com.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Demo request.,general_inquiry
+The app crashes when I try to dashboard.,bug
+Overcharged by $10 on $20.,billing_issue
+Multi-language support for Slack?,feature_request
+Feature idea: auto-iOS.,feature_request
+Slow performance during iOS.,bug
+Feature idea: auto-Google.,feature_request
+Slow performance during profile.,bug
+Please add export to 12345.,feature_request
+Shortcut keys for profile.,feature_request
+Login fails with error Jan.,bug
+Account suspended without reason.,account_problem
+Profile pic not updating.,account_problem
+Please implement Google like in competitors.,feature_request
+Contact sales for enterprise.,general_inquiry
+Upgrade to email but still on old.,billing_issue
+App freezes on web. Please help.,bug
+Charged twice for profile. Refund?,billing_issue
+Images not loading in query test.,bug
+Where is my invoice for save?,billing_issue
+Is save available?,general_inquiry
+The app crashes when I try to profile.,bug
+Payment not recognized for app.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Two-factor auth broken.,account_problem
+No receipt after purchase.,billing_issue
+Need option to iOS in bulk.,feature_request
+Multi-language support for 500?,feature_request
+Slow performance during query test.,bug
+Two-factor auth broken.,account_problem
+Error Feb when opening Jan.,bug
+Error Feb when opening Jan.,bug
+Charged twice for 404. Refund?,billing_issue
+Access denied to $20.,account_problem
+App freezes on email. Please help.,bug
+Request: dark mode for query test.,feature_request
+Request: dark mode for users.,feature_request
+The app crashes when I try to Jan.,bug
+UI is broken on users. Can you fix?,bug
+Subscription not renewing properly.,billing_issue
+Profile pic not updating.,account_problem
+Account suspended without reason.,account_problem
+Charged twice for profile. Refund?,billing_issue
+Login fails with error premium.,bug
+Multi-language support for profile?,feature_request
+search button does nothing.,bug
+Demo request.,general_inquiry
+Need option to save in bulk.,feature_request
+Delete my account please.,account_problem
+Privacy policy question.,general_inquiry
+Please add export to PDF.,feature_request
+Status of my ticket Feb.,general_inquiry
+Can we add support for dashboard?,feature_request
+"Forgot password, reset not working.",account_problem
+Overcharged by 67890 on premium.,billing_issue
+Billing error: card declined but charged.,billing_issue
+Charged twice for users. Refund?,billing_issue
+How do I Jan?,general_inquiry
+Is CSV available?,general_inquiry
+Privacy policy question.,general_inquiry
+Request: dark mode for 12345.,feature_request
+Need option to Slack in bulk.,feature_request
+How do I users?,general_inquiry
+Verify phone number issue.,account_problem
+Account suspended without reason.,account_problem
+Search returns wrong results for export.,bug
+Verify phone number issue.,account_problem
+Charged twice for save. Refund?,billing_issue
+Multi-language support for new@example.com?,feature_request
+Login fails with error login.,bug
+Contact sales for enterprise.,general_inquiry
+Images not loading in search.,bug
+Where is my invoice for Slack?,billing_issue
+Two-factor auth broken.,account_problem
+Demo request.,general_inquiry
+Data not saving properly after email.,bug
+Can we add support for iOS?,feature_request
+Cancel subscription failed.,billing_issue
+Can we add support for 500?,feature_request
+Where to find 500?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Feature idea: auto-$20.,feature_request
+Access denied to 67890.,account_problem
+Slow performance during CSV.,bug
+Contact sales for enterprise.,general_inquiry
+Images not loading in $10.,bug
+Upgrade to $10 but still on old.,billing_issue
+Change email from $20 to 2023-01.,account_problem
+Verify phone number issue.,account_problem
+Feature idea: auto-dashboard.,feature_request
+Delete my account please.,account_problem
+Billing error: card declined but charged.,billing_issue
+Merge accounts 12345 and 67890.,account_problem
+Contact sales for enterprise.,general_inquiry
+Change email from PDF to CSV.,account_problem
+Two-factor auth broken.,account_problem
+App freezes on 2023-01. Please help.,bug
+Can we add support for iOS?,feature_request
+Cancel subscription failed.,billing_issue
+Verify phone number issue.,account_problem
+Profile pic not updating.,account_problem
+"Forgot password, reset not working.",account_problem
+Privacy policy question.,general_inquiry
+Privacy policy question.,general_inquiry
+Access denied to Google.,account_problem
+Feature idea: auto-basic.,feature_request
+Data not saving properly after new@example.com.,bug
+UI is broken on old@example.com. Can you fix?,bug
+Need option to export in bulk.,feature_request
+Add integration with PDF.,feature_request
+Privacy policy question.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Contact sales for enterprise.,general_inquiry
+Recommended setup for CSV.,general_inquiry
+Dispute charge of PDF.,billing_issue
+Account suspended without reason.,account_problem
+Cancel subscription failed.,billing_issue
+Please implement login like in competitors.,feature_request
+Request: dark mode for email.,feature_request
+"Forgot password, reset not working.",account_problem
+The app crashes when I try to Feb.,bug
+Profile pic not updating.,account_problem
+Subscription not renewing properly.,billing_issue
+Search returns wrong results for Google.,bug
+Cancel subscription failed.,billing_issue
+Status of my ticket save.,general_inquiry
+Add integration with PDF.,feature_request
+Two-factor auth broken.,account_problem
+Search returns wrong results for basic.,bug
+Billing error: card declined but charged.,billing_issue
+Login fails with error new@example.com.,bug
+Verify phone number issue.,account_problem
+Is $10 available?,general_inquiry
+What is the price for save?,general_inquiry
+Multi-language support for old@example.com?,feature_request
+Access denied to export.,account_problem
+Charged twice for Feb. Refund?,billing_issue
+Demo request.,general_inquiry
+Cancel subscription failed.,billing_issue
+Shortcut keys for export.,feature_request
+No receipt after purchase.,billing_issue
+Recommended setup for search.,general_inquiry
+What is the price for Feb?,general_inquiry
+profile button does nothing.,bug
+Contact sales for enterprise.,general_inquiry
+Two-factor auth broken.,account_problem
+Need option to login in bulk.,feature_request
+Dispute charge of Google.,billing_issue
+Upgrade to users but still on old.,billing_issue
+Please add export to Feb.,feature_request
+Slow performance during new@example.com.,bug
+Would love a email button.,feature_request
+12345 button does nothing.,bug
+No receipt after purchase.,billing_issue
+Search returns wrong results for profile.,bug
+Account suspended without reason.,account_problem
+Data not saving properly after search.,bug
+Cannot login: invalid credentials.,account_problem
+Verify phone number issue.,account_problem
+Account suspended without reason.,account_problem
+Demo request.,general_inquiry
+Privacy policy question.,general_inquiry
+"Forgot password, reset not working.",account_problem
+Request: dark mode for 404.,feature_request
+Two-factor auth broken.,account_problem
+Upgrade to web but still on old.,billing_issue
+Status of my ticket $10.,general_inquiry
+Merge accounts $10 and $20.,account_problem
+Images not loading in save.,bug
+Would love a 12345 button.,feature_request
+Is $20 available?,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Demo request.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Please add export to 404.,feature_request
+Status of my ticket old@example.com.,general_inquiry
+Can we add support for Jan?,feature_request
+Images not loading in CSV.,bug
+Status of my ticket $10.,general_inquiry
+The app crashes when I try to $10.,bug
+Please add export to login.,feature_request
+Please add export to dashboard.,feature_request
+Two-factor auth broken.,account_problem
+How do I 404?,general_inquiry
+Error iOS when opening save.,bug
+UI is broken on basic. Can you fix?,bug
+Add integration with 12345.,feature_request
+Merge accounts iOS and Android.,account_problem
+Data not saving properly after Android.,bug
+Error Jan when opening web.,bug
+Delete my account please.,account_problem
+Overcharged by 404 on 500.,billing_issue
+Billing error: card declined but charged.,billing_issue
+Recommended setup for dashboard.,general_inquiry
+Where to find 2023-01?,general_inquiry
+Subscription not renewing properly.,billing_issue
+Demo request.,general_inquiry
+No receipt after purchase.,billing_issue
+Would love a old@example.com button.,feature_request
+Cannot login: invalid credentials.,account_problem
+Images not loading in $10.,bug
+App freezes on login. Please help.,bug
+Charged twice for old@example.com. Refund?,billing_issue
+Account suspended without reason.,account_problem
+Data not saving properly after search.,bug
+Demo request.,general_inquiry
+Shortcut keys for users.,feature_request
+Can we add support for query test?,feature_request
+What is the price for 404?,general_inquiry
+Data not saving properly after 2023-01.,bug
+Access denied to users.,account_problem
+Please add export to PDF.,feature_request
+Error Android when opening iOS.,bug
+Can we add support for 500?,feature_request
+Please implement Google like in competitors.,feature_request
+What is the price for 500?,general_inquiry
+Account suspended without reason.,account_problem
+Access denied to $20.,account_problem
+Login fails with error users.,bug
+Cannot login: invalid credentials.,account_problem
+Change email from search to profile.,account_problem
+What is the price for basic?,general_inquiry
+Images not loading in iOS.,bug
+Merge accounts Slack and Google.,account_problem
+Please implement users like in competitors.,feature_request
+Feature idea: auto-old@example.com.,feature_request
+Images not loading in email.,bug
+Data not saving properly after email.,bug
+Payment not recognized for 12345.,billing_issue
+Delete my account please.,account_problem
+Please implement PDF like in competitors.,feature_request
+What is the price for $10?,general_inquiry
+Recommended setup for $10.,general_inquiry
+Where is my invoice for new@example.com?,billing_issue
+Billing error: card declined but charged.,billing_issue
+Delete my account please.,account_problem
+Cancel subscription failed.,billing_issue
+Shortcut keys for old@example.com.,feature_request
+Two-factor auth broken.,account_problem
+Where is my invoice for web?,billing_issue
+Where to find login?,general_inquiry
+UI is broken on query test. Can you fix?,bug
+Would love a login button.,feature_request
+No receipt after purchase.,billing_issue
+Demo request.,general_inquiry
+Images not loading in CSV.,bug
+What is the price for Feb?,general_inquiry
+Privacy policy question.,general_inquiry
+Please implement dashboard like in competitors.,feature_request
+Add integration with login.,feature_request
+Status of my ticket PDF.,general_inquiry
+Change email from profile to dashboard.,account_problem
+Two-factor auth broken.,account_problem
+Add integration with Slack.,feature_request
+Recommended setup for PDF.,general_inquiry
+Upgrade to new@example.com but still on old.,billing_issue
+Please add export to query test.,feature_request
+Where is my invoice for save?,billing_issue
+Upgrade to Jan but still on old.,billing_issue
+What is the price for Jan?,general_inquiry
+UI is broken on old@example.com. Can you fix?,bug
+Login fails with error $10.,bug
+query test button does nothing.,bug
+Images not loading in login.,bug
+Profile pic not updating.,account_problem
+Privacy policy question.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Merge accounts users and export.,account_problem
+Feature idea: auto-12345.,feature_request
+Privacy policy question.,general_inquiry
+Is iOS available?,general_inquiry
+Please add export to $10.,feature_request
+No receipt after purchase.,billing_issue
+Slow performance during old@example.com.,bug
+Search returns wrong results for export.,bug
+Can we add support for 12345?,feature_request
+What is the price for 404?,general_inquiry
+Request: dark mode for export.,feature_request
+Feature idea: auto-12345.,feature_request
+Multi-language support for profile?,feature_request
+Add integration with save.,feature_request
+Subscription not renewing properly.,billing_issue
+Charged twice for profile. Refund?,billing_issue
+"Forgot password, reset not working.",account_problem
+Error $10 when opening Feb.,bug
+Demo request.,general_inquiry
+Multi-language support for users?,feature_request
+What is the price for users?,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Need option to PDF in bulk.,feature_request
+Where is my invoice for PDF?,billing_issue
+Status of my ticket CSV.,general_inquiry
+App freezes on web. Please help.,bug
+Error basic when opening premium.,bug
+Data not saving properly after export.,bug
+No receipt after purchase.,billing_issue
+$20 button does nothing.,bug
+Recommended setup for profile.,general_inquiry
+How do I profile?,general_inquiry
+Slow performance during users.,bug
+Profile pic not updating.,account_problem
+Contact sales for enterprise.,general_inquiry
+Change email from $10 to $20.,account_problem
+Please add export to users.,feature_request
+Would love a old@example.com button.,feature_request
+What is the price for email?,general_inquiry
+Images not loading in $10.,bug
+Feature idea: auto-web.,feature_request
+Merge accounts email and Slack.,account_problem
+UI is broken on 2023-01. Can you fix?,bug
+Charged twice for dashboard. Refund?,billing_issue
+Access denied to dashboard.,account_problem
+Feature idea: auto-Android.,feature_request
+UI is broken on app. Can you fix?,bug
+Need option to premium in bulk.,feature_request
+Images not loading in 67890.,bug
+Billing error: card declined but charged.,billing_issue
+Status of my ticket new@example.com.,general_inquiry
+Dispute charge of dashboard.,billing_issue
+Would love a save button.,feature_request
+Cannot login: invalid credentials.,account_problem
+"Forgot password, reset not working.",account_problem
+No receipt after purchase.,billing_issue
+Shortcut keys for Jan.,feature_request
+Payment not recognized for save.,billing_issue
+Overcharged by Jan on Feb.,billing_issue
+Error PDF when opening export.,bug
+Recommended setup for users.,general_inquiry
+Please implement save like in competitors.,feature_request
+Billing error: card declined but charged.,billing_issue
+Overcharged by 404 on 500.,billing_issue
+Charged twice for query test. Refund?,billing_issue
+What is the price for app?,general_inquiry
+Please add export to Slack.,feature_request
+Recommended setup for save.,general_inquiry
+Add integration with premium.,feature_request
+Subscription not renewing properly.,billing_issue
+Merge accounts app and web.,account_problem
+Overcharged by basic on query test.,billing_issue
+Multi-language support for search?,feature_request
+Data not saving properly after Google.,bug
+Change email from 404 to 500.,account_problem
+Demo request.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Add integration with Feb.,feature_request
+Feedback on export.,general_inquiry
+How do I old@example.com?,general_inquiry
+Data not saving properly after Jan.,bug
+Images not loading in CSV.,bug
+Demo request.,general_inquiry
+Is $10 available?,general_inquiry
+Images not loading in premium.,bug
+Need option to $20 in bulk.,feature_request
+Multi-language support for new@example.com?,feature_request
+Access denied to 500.,account_problem
+Privacy policy question.,general_inquiry
+Upgrade to query test but still on old.,billing_issue
+Verify phone number issue.,account_problem
+Overcharged by web on Jan.,billing_issue
+Slow performance during export.,bug
+Is dashboard available?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Cancel subscription failed.,billing_issue
+Demo request.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Add integration with app.,feature_request
+Payment not recognized for export.,billing_issue
+Login fails with error 67890.,bug
+What is the price for users?,general_inquiry
+Request: dark mode for premium.,feature_request
+Login fails with error new@example.com.,bug
+Please implement $10 like in competitors.,feature_request
+Status of my ticket premium.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Please implement login like in competitors.,feature_request
+"Forgot password, reset not working.",account_problem
+Billing error: card declined but charged.,billing_issue
+Feature idea: auto-app.,feature_request
+Account suspended without reason.,account_problem
+Contact sales for enterprise.,general_inquiry
+Login fails with error search.,bug
+Request: dark mode for $20.,feature_request
+Where to find basic?,general_inquiry
+Need option to PDF in bulk.,feature_request
+Change email from search to profile.,account_problem
+Contact sales for enterprise.,general_inquiry
+The app crashes when I try to 500.,bug
+Merge accounts $10 and $20.,account_problem
+Multi-language support for $10?,feature_request
+Charged twice for Jan. Refund?,billing_issue
+Request: dark mode for 2023-01.,feature_request
+Payment not recognized for basic.,billing_issue
+Shortcut keys for export.,feature_request
+Merge accounts dashboard and 404.,account_problem
+Verify phone number issue.,account_problem
+Please add export to query test.,feature_request
+Change email from Google to app.,account_problem
+Cannot login: invalid credentials.,account_problem
+Overcharged by 67890 on premium.,billing_issue
+Need option to login in bulk.,feature_request
+How do I Jan?,general_inquiry
+Would love a Jan button.,feature_request
+Please add export to PDF.,feature_request
+Feature idea: auto-users.,feature_request
+Demo request.,general_inquiry
+Status of my ticket web.,general_inquiry
+Privacy policy question.,general_inquiry
+Overcharged by PDF on CSV.,billing_issue
+Add integration with iOS.,feature_request
+Dispute charge of users.,billing_issue
+The app crashes when I try to CSV.,bug
+Login fails with error export.,bug
+How do I new@example.com?,general_inquiry
+Cancel subscription failed.,billing_issue
+Delete my account please.,account_problem
+Feature idea: auto-dashboard.,feature_request
+Please add export to app.,feature_request
+Images not loading in Feb.,bug
+Dispute charge of Jan.,billing_issue
+Merge accounts CSV and email.,account_problem
+Slow performance during web.,bug
+Verify phone number issue.,account_problem
+Delete my account please.,account_problem
+Images not loading in basic.,bug
+Can we add support for 404?,feature_request
+"Forgot password, reset not working.",account_problem
+Multi-language support for 2023-01?,feature_request
+Search returns wrong results for save.,bug
+Add integration with Google.,feature_request
+Please implement premium like in competitors.,feature_request
+Data not saving properly after export.,bug
+Need option to new@example.com in bulk.,feature_request
+Status of my ticket login.,general_inquiry
+Search returns wrong results for query test.,bug
+Data not saving properly after save.,bug
+Overcharged by Slack on Google.,billing_issue
+Subscription not renewing properly.,billing_issue
+Subscription not renewing properly.,billing_issue
+Privacy policy question.,general_inquiry
+Search returns wrong results for query test.,bug
+Error iOS when opening save.,bug
+UI is broken on Android. Can you fix?,bug
+Slow performance during query test.,bug
+Please add export to Jan.,feature_request
+Please implement export like in competitors.,feature_request
+Billing error: card declined but charged.,billing_issue
+Merge accounts 500 and users.,account_problem
+Contact sales for enterprise.,general_inquiry
+App freezes on 404. Please help.,bug
+App freezes on 500. Please help.,bug
+Request: dark mode for 67890.,feature_request
+Request: dark mode for 67890.,feature_request
+Need option to 404 in bulk.,feature_request
+Upgrade to query test but still on old.,billing_issue
+Verify phone number issue.,account_problem
+UI is broken on web. Can you fix?,bug
+Feature idea: auto-basic.,feature_request
+Login fails with error Feb.,bug
+How do I premium?,general_inquiry
+How do I 67890?,general_inquiry
+Feedback on query test.,general_inquiry
+Slow performance during 12345.,bug
+How do I $20?,general_inquiry
+Images not loading in 12345.,bug
+Upgrade to users but still on old.,billing_issue
+Please implement PDF like in competitors.,feature_request
+Add integration with Google.,feature_request
+Please implement export like in competitors.,feature_request
+Contact sales for enterprise.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Request: dark mode for premium.,feature_request
+Data not saving properly after login.,bug
+Shortcut keys for basic.,feature_request
+What is the price for Google?,general_inquiry
+Please add export to email.,feature_request
+500 button does nothing.,bug
+Demo request.,general_inquiry
+No receipt after purchase.,billing_issue
+Login fails with error $20.,bug
+Data not saving properly after Feb.,bug
+Contact sales for enterprise.,general_inquiry
+Payment not recognized for login.,billing_issue
+Slow performance during export.,bug
+Profile pic not updating.,account_problem
+Privacy policy question.,general_inquiry
+Add integration with 67890.,feature_request
+Overcharged by app on web.,billing_issue
+Add integration with old@example.com.,feature_request
+Verify phone number issue.,account_problem
+Contact sales for enterprise.,general_inquiry
+What is the price for old@example.com?,general_inquiry
+The app crashes when I try to 404.,bug
+Subscription not renewing properly.,billing_issue
+Delete my account please.,account_problem
+What is the price for iOS?,general_inquiry
+Privacy policy question.,general_inquiry
+Please implement 404 like in competitors.,feature_request
+Change email from web to Jan.,account_problem
+export button does nothing.,bug
+"Forgot password, reset not working.",account_problem
+Two-factor auth broken.,account_problem
+Need option to new@example.com in bulk.,feature_request
+Change email from web to Jan.,account_problem
+Error users when opening 500.,bug
+Privacy policy question.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Billing error: card declined but charged.,billing_issue
+Feature idea: auto-iOS.,feature_request
+Profile pic not updating.,account_problem
+Error save when opening login.,bug
+Change email from email to Slack.,account_problem
+Demo request.,general_inquiry
+Dispute charge of 404.,billing_issue
+How do I old@example.com?,general_inquiry
+Payment not recognized for email.,billing_issue
+Cancel subscription failed.,billing_issue
+Images not loading in new@example.com.,bug
+Images not loading in 12345.,bug
+Images not loading in new@example.com.,bug
+The app crashes when I try to new@example.com.,bug
+Privacy policy question.,general_inquiry
+Overcharged by export on PDF.,billing_issue
+Profile pic not updating.,account_problem
+Verify phone number issue.,account_problem
+Access denied to 404.,account_problem
+Login fails with error CSV.,bug
+"Forgot password, reset not working.",account_problem
+Login fails with error app.,bug
+Cannot login: invalid credentials.,account_problem
+Status of my ticket Google.,general_inquiry
+Multi-language support for email?,feature_request
+Dispute charge of dashboard.,billing_issue
+Payment not recognized for profile.,billing_issue
+Demo request.,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Delete my account please.,account_problem
+Two-factor auth broken.,account_problem
+What is the price for 12345?,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Shortcut keys for 67890.,feature_request
+Where is my invoice for app?,billing_issue
+Is Slack available?,general_inquiry
+Profile pic not updating.,account_problem
+Error 500 when opening 404.,bug
+Contact sales for enterprise.,general_inquiry
+Search returns wrong results for old@example.com.,bug
+What is the price for Feb?,general_inquiry
+The app crashes when I try to 404.,bug
+No receipt after purchase.,billing_issue
+Upgrade to Android but still on old.,billing_issue
+Login fails with error dashboard.,bug
+"Forgot password, reset not working.",account_problem
+Overcharged by dashboard on 404.,billing_issue
+Please implement Google like in competitors.,feature_request
+Billing error: card declined but charged.,billing_issue
+Is CSV available?,general_inquiry
+App freezes on new@example.com. Please help.,bug
+No receipt after purchase.,billing_issue
+No receipt after purchase.,billing_issue
+How do I profile?,general_inquiry
+Where to find Jan?,general_inquiry
+Delete my account please.,account_problem
+Charged twice for 67890. Refund?,billing_issue
+Where to find $20?,general_inquiry
+Is web available?,general_inquiry
+How do I CSV?,general_inquiry
+Charged twice for $10. Refund?,billing_issue
+Delete my account please.,account_problem
+Merge accounts 2023-01 and old@example.com.,account_problem
+Is 12345 available?,general_inquiry
+Slow performance during users.,bug
+Slow performance during Feb.,bug
+Feature idea: auto-email.,feature_request
+Recommended setup for app.,general_inquiry
+Where is my invoice for 2023-01?,billing_issue
+Access denied to save.,account_problem
+"Forgot password, reset not working.",account_problem
+Images not loading in 404.,bug
+Data not saving properly after users.,bug
+Delete my account please.,account_problem
+Login fails with error save.,bug
+Upgrade to 12345 but still on old.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Merge accounts Android and search.,account_problem
+Cancel subscription failed.,billing_issue
+"Forgot password, reset not working.",account_problem
+UI is broken on Jan. Can you fix?,bug
+Can we add support for new@example.com?,feature_request
+Slow performance during Slack.,bug
+Contact sales for enterprise.,general_inquiry
+Upgrade to users but still on old.,billing_issue
+Overcharged by query test on login.,billing_issue
+Can we add support for export?,feature_request
+Can we add support for new@example.com?,feature_request
+Recommended setup for Slack.,general_inquiry
+Charged twice for Feb. Refund?,billing_issue
+Multi-language support for Jan?,feature_request
+Upgrade to $20 but still on old.,billing_issue
+Status of my ticket $10.,general_inquiry
+Feature idea: auto-PDF.,feature_request
+Two-factor auth broken.,account_problem
+Request: dark mode for Feb.,feature_request
+Data not saving properly after CSV.,bug
+Verify phone number issue.,account_problem
+Privacy policy question.,general_inquiry
+Where is my invoice for search?,billing_issue
+Overcharged by Google on app.,billing_issue
+What is the price for Slack?,general_inquiry
+What is the price for search?,general_inquiry
+Data not saving properly after Android.,bug
+Data not saving properly after basic.,bug
+Request: dark mode for PDF.,feature_request
+Status of my ticket Jan.,general_inquiry
+Data not saving properly after Android.,bug
+Subscription not renewing properly.,billing_issue
+Is 404 available?,general_inquiry
+Merge accounts Slack and Google.,account_problem
+Merge accounts Feb and $10.,account_problem
+Please implement Jan like in competitors.,feature_request
+Subscription not renewing properly.,billing_issue
+The app crashes when I try to $20.,bug
+Demo request.,general_inquiry
+Status of my ticket query test.,general_inquiry
+Cancel subscription failed.,billing_issue
+Cannot login: invalid credentials.,account_problem
+Two-factor auth broken.,account_problem
+Merge accounts 500 and users.,account_problem
+Multi-language support for export?,feature_request
+Billing error: card declined but charged.,billing_issue
+Where is my invoice for CSV?,billing_issue
+Multi-language support for new@example.com?,feature_request
+Would love a iOS button.,feature_request
+Please add export to search.,feature_request
+Upgrade to Google but still on old.,billing_issue
+Privacy policy question.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Please add export to search.,feature_request
+Cannot login: invalid credentials.,account_problem
+Where to find Android?,general_inquiry
+Overcharged by users on export.,billing_issue
+Access denied to save.,account_problem
+Slow performance during query test.,bug
+Multi-language support for 500?,feature_request
+Slow performance during save.,bug
+Please implement email like in competitors.,feature_request
+Please implement Slack like in competitors.,feature_request
+Add integration with Slack.,feature_request
+Feedback on iOS.,general_inquiry
+Merge accounts app and web.,account_problem
+Cannot login: invalid credentials.,account_problem
+Access denied to dashboard.,account_problem
+UI is broken on premium. Can you fix?,bug
+Access denied to $20.,account_problem
+Images not loading in 12345.,bug
+Recommended setup for 404.,general_inquiry
+Access denied to PDF.,account_problem
+Multi-language support for web?,feature_request
+Multi-language support for search?,feature_request
+Demo request.,general_inquiry
+Status of my ticket CSV.,general_inquiry
+Upgrade to PDF but still on old.,billing_issue
+Data not saving properly after users.,bug
+Feature idea: auto-query test.,feature_request
+Cancel subscription failed.,billing_issue
+How do I $10?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Contact sales for enterprise.,general_inquiry
+Request: dark mode for search.,feature_request
+Feature idea: auto-iOS.,feature_request
+Request: dark mode for 12345.,feature_request
+Multi-language support for export?,feature_request
+Cannot login: invalid credentials.,account_problem
+Subscription not renewing properly.,billing_issue
+Charged twice for Jan. Refund?,billing_issue
+Demo request.,general_inquiry
+Recommended setup for 500.,general_inquiry
+Status of my ticket basic.,general_inquiry
+Recommended setup for $20.,general_inquiry
+Profile pic not updating.,account_problem
+Recommended setup for 500.,general_inquiry
+Two-factor auth broken.,account_problem
+Would love a search button.,feature_request
+Is $20 available?,general_inquiry
+Dispute charge of basic.,billing_issue
+Dispute charge of export.,billing_issue
+The app crashes when I try to app.,bug
+Would love a email button.,feature_request
+Multi-language support for users?,feature_request
+Is 404 available?,general_inquiry
+No receipt after purchase.,billing_issue
+Subscription not renewing properly.,billing_issue
+Demo request.,general_inquiry
+Cancel subscription failed.,billing_issue
+Shortcut keys for $10.,feature_request
+How do I Android?,general_inquiry
+Profile pic not updating.,account_problem
+App freezes on dashboard. Please help.,bug
+Cancel subscription failed.,billing_issue
+Overcharged by web on Jan.,billing_issue
+Billing error: card declined but charged.,billing_issue
+Access denied to 12345.,account_problem
+What is the price for search?,general_inquiry
+Profile pic not updating.,account_problem
+Subscription not renewing properly.,billing_issue
+App freezes on search. Please help.,bug
+Add integration with login.,feature_request
+Can we add support for 500?,feature_request
+Status of my ticket export.,general_inquiry
+Account suspended without reason.,account_problem
+Billing error: card declined but charged.,billing_issue
+"Forgot password, reset not working.",account_problem
+Login fails with error new@example.com.,bug
+Account suspended without reason.,account_problem
+Multi-language support for login?,feature_request
+Shortcut keys for app.,feature_request
+Two-factor auth broken.,account_problem
+Recommended setup for dashboard.,general_inquiry
+Status of my ticket Android.,general_inquiry
+Upgrade to search but still on old.,billing_issue
+Contact sales for enterprise.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Dispute charge of login.,billing_issue
+Status of my ticket dashboard.,general_inquiry
+Login fails with error 67890.,bug
+Feature idea: auto-Slack.,feature_request
+Cancel subscription failed.,billing_issue
+Feature idea: auto-Feb.,feature_request
+Cancel subscription failed.,billing_issue
+Where is my invoice for save?,billing_issue
+Data not saving properly after login.,bug
+Is search available?,general_inquiry
+Is web available?,general_inquiry
+Merge accounts users and export.,account_problem
+Change email from profile to dashboard.,account_problem
+Status of my ticket email.,general_inquiry
+PDF button does nothing.,bug
+Delete my account please.,account_problem
+Login fails with error premium.,bug
+App freezes on web. Please help.,bug
+Request: dark mode for export.,feature_request
+Shortcut keys for iOS.,feature_request
+UI is broken on search. Can you fix?,bug
+Two-factor auth broken.,account_problem
+Upgrade to email but still on old.,billing_issue
+Merge accounts Google and app.,account_problem
+500 button does nothing.,bug
+Error 12345 when opening new@example.com.,bug
+Error login when opening query test.,bug
+Request: dark mode for iOS.,feature_request
+App freezes on web. Please help.,bug
+Shortcut keys for 500.,feature_request
+Dispute charge of iOS.,billing_issue
+Status of my ticket email.,general_inquiry
+Add integration with premium.,feature_request
+Please add export to iOS.,feature_request
+Where is my invoice for premium?,billing_issue
+No receipt after purchase.,billing_issue
+Subscription not renewing properly.,billing_issue
+Where to find 12345?,general_inquiry
+Dispute charge of 404.,billing_issue
+Demo request.,general_inquiry
+Login fails with error web.,bug
+Images not loading in CSV.,bug
+Feature idea: auto-67890.,feature_request
+The app crashes when I try to $10.,bug
+Billing error: card declined but charged.,billing_issue
+Status of my ticket save.,general_inquiry
+Profile pic not updating.,account_problem
+Slow performance during profile.,bug
+Two-factor auth broken.,account_problem
+Please implement Google like in competitors.,feature_request
+Cannot login: invalid credentials.,account_problem
+Data not saving properly after iOS.,bug
+Upgrade to Feb but still on old.,billing_issue
+Merge accounts Jan and Feb.,account_problem
+Account suspended without reason.,account_problem
+Search returns wrong results for $10.,bug
+Request: dark mode for premium.,feature_request
+Need option to email in bulk.,feature_request
+Upgrade to email but still on old.,billing_issue
+Request: dark mode for PDF.,feature_request
+Add integration with old@example.com.,feature_request
+Charged twice for 404. Refund?,billing_issue
+Where to find Android?,general_inquiry
+Is web available?,general_inquiry
+Images not loading in CSV.,bug
+PDF button does nothing.,bug
+Payment not recognized for 2023-01.,billing_issue
+Shortcut keys for 404.,feature_request
+Privacy policy question.,general_inquiry
+Overcharged by 12345 on 67890.,billing_issue
+UI is broken on old@example.com. Can you fix?,bug
+Search returns wrong results for users.,bug
+Payment not recognized for old@example.com.,billing_issue
+Images not loading in Google.,bug
+Contact sales for enterprise.,general_inquiry
+Please add export to $20.,feature_request
+Overcharged by app on web.,billing_issue
+Demo request.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Demo request.,general_inquiry
+Would love a Feb button.,feature_request
+Login fails with error 404.,bug
+Request: dark mode for Feb.,feature_request
+Upgrade to 12345 but still on old.,billing_issue
+App freezes on Slack. Please help.,bug
+Contact sales for enterprise.,general_inquiry
+How do I 2023-01?,general_inquiry
+Charged twice for Android. Refund?,billing_issue
+Charged twice for $20. Refund?,billing_issue
+Error iOS when opening save.,bug
+Billing error: card declined but charged.,billing_issue
+What is the price for dashboard?,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Dispute charge of $10.,billing_issue
+App freezes on login. Please help.,bug
+Demo request.,general_inquiry
+Login fails with error new@example.com.,bug
+Dispute charge of save.,billing_issue
+Overcharged by Slack on Google.,billing_issue
+Images not loading in PDF.,bug
+Demo request.,general_inquiry
+Where to find profile?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Add integration with 404.,feature_request
+Cannot login: invalid credentials.,account_problem
+App freezes on basic. Please help.,bug
+No receipt after purchase.,billing_issue
+Subscription not renewing properly.,billing_issue
+Merge accounts $20 and 2023-01.,account_problem
+UI is broken on 500. Can you fix?,bug
+Search returns wrong results for CSV.,bug
+Is dashboard available?,general_inquiry
+What is the price for login?,general_inquiry
+Can we add support for web?,feature_request
+Where to find users?,general_inquiry
+Overcharged by login on save.,billing_issue
+Slow performance during dashboard.,bug
+Login fails with error $10.,bug
+Dispute charge of search.,billing_issue
+CSV button does nothing.,bug
+Please add export to 67890.,feature_request
+Merge accounts Slack and Google.,account_problem
+No receipt after purchase.,billing_issue
+Verify phone number issue.,account_problem
+Is Android available?,general_inquiry
+App freezes on web. Please help.,bug
+Delete my account please.,account_problem
+What is the price for Android?,general_inquiry
+Please implement Feb like in competitors.,feature_request
+Feature idea: auto-web.,feature_request
+Profile pic not updating.,account_problem
+Overcharged by users on export.,billing_issue
+Where is my invoice for 2023-01?,billing_issue
+Payment not recognized for users.,billing_issue
+Cannot login: invalid credentials.,account_problem
+What is the price for $10?,general_inquiry
+Add integration with 2023-01.,feature_request
+Change email from $20 to 2023-01.,account_problem
+Payment not recognized for 67890.,billing_issue
+Slow performance during email.,bug
+How do I basic?,general_inquiry
+Slow performance during Android.,bug
+Shortcut keys for Jan.,feature_request
+Shortcut keys for 2023-01.,feature_request
+"Forgot password, reset not working.",account_problem
+Add integration with users.,feature_request
+How do I $10?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+Error search when opening Android.,bug
+Feedback on search.,general_inquiry
+Add integration with email.,feature_request
+Access denied to Android.,account_problem
+Charged twice for 67890. Refund?,billing_issue
+Merge accounts 500 and users.,account_problem
+Access denied to Slack.,account_problem
+What is the price for PDF?,general_inquiry
+Would love a $20 button.,feature_request
+Charged twice for export. Refund?,billing_issue
+Slow performance during iOS.,bug
+Cannot login: invalid credentials.,account_problem
+Status of my ticket Slack.,general_inquiry
+Add integration with export.,feature_request
+"Forgot password, reset not working.",account_problem
+Request: dark mode for new@example.com.,feature_request
+Delete my account please.,account_problem
+Multi-language support for $10?,feature_request
+Data not saving properly after old@example.com.,bug
+Subscription not renewing properly.,billing_issue
+Privacy policy question.,general_inquiry
+No receipt after purchase.,billing_issue
+Privacy policy question.,general_inquiry
+Please implement 500 like in competitors.,feature_request
+Shortcut keys for 67890.,feature_request
+Merge accounts 67890 and premium.,account_problem
+Overcharged by Android on search.,billing_issue
+Shortcut keys for 2023-01.,feature_request
+Request: dark mode for email.,feature_request
+Can we add support for web?,feature_request
+Login fails with error Slack.,bug
+Where to find iOS?,general_inquiry
+Shortcut keys for 2023-01.,feature_request
+Privacy policy question.,general_inquiry
+The app crashes when I try to web.,bug
+Login fails with error Feb.,bug
+Images not loading in $10.,bug
+Change email from save to iOS.,account_problem
+How do I profile?,general_inquiry
+Search returns wrong results for Android.,bug
+Status of my ticket profile.,general_inquiry
+Demo request.,general_inquiry
+Overcharged by new@example.com on 12345.,billing_issue
+Where is my invoice for 500?,billing_issue
+Recommended setup for login.,general_inquiry
+How do I web?,general_inquiry
+Images not loading in search.,bug
+Login fails with error dashboard.,bug
+Profile pic not updating.,account_problem
+Change email from CSV to email.,account_problem
+Upgrade to web but still on old.,billing_issue
+Feature idea: auto-new@example.com.,feature_request
+Would love a old@example.com button.,feature_request
+Merge accounts $20 and 2023-01.,account_problem
+UI is broken on login. Can you fix?,bug
+What is the price for premium?,general_inquiry
+Demo request.,general_inquiry
+Need option to dashboard in bulk.,feature_request
+Change email from Jan to Feb.,account_problem
+Subscription not renewing properly.,billing_issue
+Merge accounts export and PDF.,account_problem
+Feedback on save.,general_inquiry
+Request: dark mode for 12345.,feature_request
+The app crashes when I try to $10.,bug
+Data not saving properly after search.,bug
+Please add export to new@example.com.,feature_request
+Overcharged by web on Jan.,billing_issue
+Recommended setup for premium.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Dispute charge of export.,billing_issue
+Is Slack available?,general_inquiry
+Privacy policy question.,general_inquiry
+What is the price for old@example.com?,general_inquiry
+Overcharged by Feb on $10.,billing_issue
+Feature idea: auto-iOS.,feature_request
+Feature idea: auto-app.,feature_request
+Error email when opening CSV.,bug
+Delete my account please.,account_problem
+Overcharged by CSV on email.,billing_issue
+Demo request.,general_inquiry
+The app crashes when I try to Jan.,bug
+Feedback on 500.,general_inquiry
+Can we add support for Google?,feature_request
+Account suspended without reason.,account_problem
+The app crashes when I try to $20.,bug
+Upgrade to Feb but still on old.,billing_issue
+Is login available?,general_inquiry
+Payment not recognized for basic.,billing_issue
+Images not loading in Feb.,bug
+App freezes on login. Please help.,bug
+Payment not recognized for export.,billing_issue
+Slow performance during basic.,bug
+UI is broken on Jan. Can you fix?,bug
+Delete my account please.,account_problem
+Profile pic not updating.,account_problem
+Overcharged by search on profile.,billing_issue
+Multi-language support for $10?,feature_request
+Charged twice for 2023-01. Refund?,billing_issue
+Delete my account please.,account_problem
+Error 404 when opening dashboard.,bug
+Cannot login: invalid credentials.,account_problem
+Error profile when opening search.,bug
+Verify phone number issue.,account_problem
+Request: dark mode for 2023-01.,feature_request
+Request: dark mode for profile.,feature_request
+Can we add support for PDF?,feature_request
+"Forgot password, reset not working.",account_problem
+Feature idea: auto-500.,feature_request
+Profile pic not updating.,account_problem
+Upgrade to CSV but still on old.,billing_issue
+Upgrade to users but still on old.,billing_issue
+Profile pic not updating.,account_problem
+Upgrade to Jan but still on old.,billing_issue
+Contact sales for enterprise.,general_inquiry
+No receipt after purchase.,billing_issue
+Error Slack when opening email.,bug
+Where to find basic?,general_inquiry
+Change email from query test to login.,account_problem
+Profile pic not updating.,account_problem
+How do I 2023-01?,general_inquiry
+Dispute charge of 67890.,billing_issue
+Delete my account please.,account_problem
+Shortcut keys for dashboard.,feature_request
+Overcharged by 12345 on 67890.,billing_issue
+basic button does nothing.,bug
+Error $20 when opening $10.,bug
+Need option to app in bulk.,feature_request
+Profile pic not updating.,account_problem
+Feature idea: auto-iOS.,feature_request
+Payment not recognized for iOS.,billing_issue
+Account suspended without reason.,account_problem
+Is app available?,general_inquiry
+Privacy policy question.,general_inquiry
+Feature idea: auto-login.,feature_request
+"Forgot password, reset not working.",account_problem
+Two-factor auth broken.,account_problem
+How do I save?,general_inquiry
+Error web when opening app.,bug
+The app crashes when I try to PDF.,bug
+Add integration with old@example.com.,feature_request
+Access denied to Jan.,account_problem
+Payment not recognized for dashboard.,billing_issue
+Request: dark mode for old@example.com.,feature_request
+Subscription not renewing properly.,billing_issue
+Feature idea: auto-email.,feature_request
+Need option to 500 in bulk.,feature_request
+Payment not recognized for app.,billing_issue
+Verify phone number issue.,account_problem
+Request: dark mode for old@example.com.,feature_request
+Access denied to 67890.,account_problem
+No receipt after purchase.,billing_issue
+Add integration with 67890.,feature_request
+Data not saving properly after PDF.,bug
+Delete my account please.,account_problem
+Demo request.,general_inquiry
+query test button does nothing.,bug
+Recommended setup for dashboard.,general_inquiry
+Search returns wrong results for profile.,bug
+Contact sales for enterprise.,general_inquiry
+Verify phone number issue.,account_problem
+Please add export to 2023-01.,feature_request
+Where to find Feb?,general_inquiry
+Charged twice for Google. Refund?,billing_issue
+Add integration with search.,feature_request
+Where is my invoice for $10?,billing_issue
+Verify phone number issue.,account_problem
+Payment not recognized for query test.,billing_issue
+The app crashes when I try to users.,bug
+Shortcut keys for users.,feature_request
+Add integration with premium.,feature_request
+Where to find profile?,general_inquiry
+Demo request.,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Please add export to login.,feature_request
+Upgrade to web but still on old.,billing_issue
+Can we add support for CSV?,feature_request
+Overcharged by login on save.,billing_issue
+Demo request.,general_inquiry
+Two-factor auth broken.,account_problem
+Recommended setup for old@example.com.,general_inquiry
+"Forgot password, reset not working.",account_problem
+Contact sales for enterprise.,general_inquiry
+How do I 404?,general_inquiry
+Where to find Google?,general_inquiry
+Request: dark mode for Jan.,feature_request
+Please add export to web.,feature_request
+Status of my ticket basic.,general_inquiry
+Need option to $20 in bulk.,feature_request
+Shortcut keys for Slack.,feature_request
+Data not saving properly after Android.,bug
+How do I search?,general_inquiry
+Cannot login: invalid credentials.,account_problem
+What is the price for premium?,general_inquiry
+Account suspended without reason.,account_problem
+Feedback on Android.,general_inquiry
+Verify phone number issue.,account_problem
+Privacy policy question.,general_inquiry
+Feedback on email.,general_inquiry
+Merge accounts search and profile.,account_problem
+Verify phone number issue.,account_problem
+Please add export to PDF.,feature_request
+No receipt after purchase.,billing_issue
+Multi-language support for dashboard?,feature_request
+No receipt after purchase.,billing_issue
+Dispute charge of login.,billing_issue
+Search returns wrong results for login.,bug
+Recommended setup for PDF.,general_inquiry
+Please implement Slack like in competitors.,feature_request
+Payment not recognized for $20.,billing_issue
+Dispute charge of 500.,billing_issue
+Merge accounts Feb and $10.,account_problem
+Need option to 12345 in bulk.,feature_request
+Subscription not renewing properly.,billing_issue
+Request: dark mode for CSV.,feature_request
+Subscription not renewing properly.,billing_issue
+Search returns wrong results for Jan.,bug
+Delete my account please.,account_problem
+Images not loading in CSV.,bug
+Status of my ticket login.,general_inquiry
+Merge accounts Feb and $10.,account_problem
+What is the price for iOS?,general_inquiry
+Billing error: card declined but charged.,billing_issue
+Verify phone number issue.,account_problem
+Two-factor auth broken.,account_problem
+Billing error: card declined but charged.,billing_issue
+No receipt after purchase.,billing_issue
+Feedback on $10.,general_inquiry
+Profile pic not updating.,account_problem
+Where is my invoice for old@example.com?,billing_issue
+Data not saving properly after export.,bug
+No receipt after purchase.,billing_issue
+Would love a profile button.,feature_request
+Where is my invoice for $20?,billing_issue
+Login fails with error users.,bug
+Android button does nothing.,bug
+Error Feb when opening Jan.,bug
+Cannot login: invalid credentials.,account_problem
+Cancel subscription failed.,billing_issue
+App freezes on search. Please help.,bug
+Please add export to 2023-01.,feature_request
+Profile pic not updating.,account_problem
+Demo request.,general_inquiry
+Search returns wrong results for 500.,bug
+Shortcut keys for Jan.,feature_request
+Recommended setup for search.,general_inquiry
+Profile pic not updating.,account_problem
+Profile pic not updating.,account_problem
+Contact sales for enterprise.,general_inquiry
+Status of my ticket iOS.,general_inquiry
+Overcharged by CSV on email.,billing_issue
+Login fails with error $10.,bug
+Upgrade to Jan but still on old.,billing_issue
+Is dashboard available?,general_inquiry
+Error Feb when opening Jan.,bug
+Delete my account please.,account_problem
+Would love a users button.,feature_request
+No receipt after purchase.,billing_issue
+Cancel subscription failed.,billing_issue
+Delete my account please.,account_problem
+Demo request.,general_inquiry
+Account suspended without reason.,account_problem
+Shortcut keys for old@example.com.,feature_request
+Subscription not renewing properly.,billing_issue
+"Forgot password, reset not working.",account_problem
+Data not saving properly after new@example.com.,bug
+Access denied to save.,account_problem
+Access denied to iOS.,account_problem
+Contact sales for enterprise.,general_inquiry
+Profile pic not updating.,account_problem
+Where to find search?,general_inquiry
+Please add export to dashboard.,feature_request
+Upgrade to $10 but still on old.,billing_issue
+Contact sales for enterprise.,general_inquiry
+web button does nothing.,bug
+Two-factor auth broken.,account_problem
+Please implement PDF like in competitors.,feature_request
+Would love a premium button.,feature_request
+404 button does nothing.,bug
+Is premium available?,general_inquiry
+Where is my invoice for login?,billing_issue
+Shortcut keys for Android.,feature_request
+Billing error: card declined but charged.,billing_issue
+Change email from 2023-01 to old@example.com.,account_problem
+No receipt after purchase.,billing_issue
+Upgrade to profile but still on old.,billing_issue
+Subscription not renewing properly.,billing_issue
+Where to find users?,general_inquiry
+Upgrade to email but still on old.,billing_issue
+Please implement $20 like in competitors.,feature_request
+Account suspended without reason.,account_problem
+Need option to iOS in bulk.,feature_request
+How do I profile?,general_inquiry
+Change email from 12345 to 67890.,account_problem
+Merge accounts Google and app.,account_problem
+Upgrade to Feb but still on old.,billing_issue
+Login fails with error Android.,bug
+Request: dark mode for login.,feature_request
+Profile pic not updating.,account_problem
+Shortcut keys for save.,feature_request
+UI is broken on Jan. Can you fix?,bug
+Dispute charge of new@example.com.,billing_issue
+Verify phone number issue.,account_problem
+Search returns wrong results for PDF.,bug
+Subscription not renewing properly.,billing_issue
+Payment not recognized for 500.,billing_issue
+Payment not recognized for profile.,billing_issue
+Contact sales for enterprise.,general_inquiry
+Shortcut keys for CSV.,feature_request
+Account suspended without reason.,account_problem
+The app crashes when I try to export.,bug
+Slow performance during Feb.,bug
+Recommended setup for 500.,general_inquiry
+12345 button does nothing.,bug
+Upgrade to query test but still on old.,billing_issue
+Subscription not renewing properly.,billing_issue
+Billing error: card declined but charged.,billing_issue
+"Forgot password, reset not working.",account_problem
+Would love a export button.,feature_request
+Error query test when opening basic.,bug
+Access denied to Feb.,account_problem
+Add integration with profile.,feature_request
+Overcharged by $20 on 2023-01.,billing_issue
+Please implement premium like in competitors.,feature_request
+Where to find login?,general_inquiry
+Add integration with $20.,feature_request
+Cancel subscription failed.,billing_issue
+Status of my ticket 12345.,general_inquiry
+The app crashes when I try to old@example.com.,bug
+App freezes on Android. Please help.,bug
+Change email from iOS to Android.,account_problem
+Two-factor auth broken.,account_problem
+"Forgot password, reset not working.",account_problem
+Is web available?,general_inquiry
+Request: dark mode for export.,feature_request
+Charged twice for Android. Refund?,billing_issue
+Profile pic not updating.,account_problem
+Payment not recognized for web.,billing_issue
+No receipt after purchase.,billing_issue
+Need option to save in bulk.,feature_request
+UI is broken on iOS. Can you fix?,bug
+Please add export to premium.,feature_request
+No receipt after purchase.,billing_issue
+Request: dark mode for login.,feature_request
+Error CSV when opening PDF.,bug
+Feedback on search.,general_inquiry
+Subscription not renewing properly.,billing_issue
+Search returns wrong results for $10.,bug
+No receipt after purchase.,billing_issue
+profile button does nothing.,bug
+Demo request.,general_inquiry
+Dispute charge of search.,billing_issue
+Change email from Google to app.,account_problem
+Request: dark mode for 404.,feature_request
+Profile pic not updating.,account_problem
+Multi-language support for 67890?,feature_request
+Privacy policy question.,general_inquiry
+Data not saving properly after search.,bug
+No receipt after purchase.,billing_issue
+Data not saving properly after export.,bug
+Where to find Jan?,general_inquiry
+Images not loading in $20.,bug
+Upgrade to Slack but still on old.,billing_issue
+Feature idea: auto-profile.,feature_request
+No receipt after purchase.,billing_issue
+Profile pic not updating.,account_problem
+Profile pic not updating.,account_problem
+Is old@example.com available?,general_inquiry
+Feedback on Google.,general_inquiry
+Profile pic not updating.,account_problem
+Payment not recognized for Jan.,billing_issue
+Please implement query test like in competitors.,feature_request
+Demo request.,general_inquiry
+UI is broken on PDF. Can you fix?,bug
+Please add export to 500.,feature_request
+Subscription not renewing properly.,billing_issue
+Add integration with premium.,feature_request
+Would love a dashboard button.,feature_request
+Cancel subscription failed.,billing_issue
+Upgrade to export but still on old.,billing_issue
+Upgrade to $10 but still on old.,billing_issue
+404 button does nothing.,bug
+Error $20 when opening $10.,bug
+No receipt after purchase.,billing_issue
+Would love a new@example.com button.,feature_request
+Where to find old@example.com?,general_inquiry
+Payment not recognized for 67890.,billing_issue
+Dispute charge of Google.,billing_issue
+Feedback on profile.,general_inquiry
+Where is my invoice for Jan?,billing_issue
+Images not loading in save.,bug
+Access denied to profile.,account_problem
+The app crashes when I try to basic.,bug
+Privacy policy question.,general_inquiry
+Verify phone number issue.,account_problem
+Payment not recognized for 500.,billing_issue
+Status of my ticket save.,general_inquiry
+Add integration with web.,feature_request
+Demo request.,general_inquiry
+Data not saving properly after premium.,bug
+Feedback on 12345.,general_inquiry
+Feedback on export.,general_inquiry
+Add integration with profile.,feature_request
+Upgrade to PDF but still on old.,billing_issue
+Account suspended without reason.,account_problem
+Privacy policy question.,general_inquiry
+Would love a query test button.,feature_request
+Add integration with save.,feature_request
+Slow performance during email.,bug
+Data not saving properly after Jan.,bug
+Images not loading in old@example.com.,bug
+Request: dark mode for profile.,feature_request
+Upgrade to Google but still on old.,billing_issue
+Multi-language support for iOS?,feature_request
+Images not loading in Google.,bug
+Overcharged by Slack on Google.,billing_issue
+Please add export to $20.,feature_request
+Privacy policy question.,general_inquiry
+Data not saving properly after 404.,bug
+Cancel subscription failed.,billing_issue
+Upgrade to query test but still on old.,billing_issue
+Would love a save button.,feature_request
+Delete my account please.,account_problem
+Slow performance during premium.,bug
+No receipt after purchase.,billing_issue
+Feature idea: auto-404.,feature_request
+What is the price for premium?,general_inquiry
+Profile pic not updating.,account_problem
+Need option to email in bulk.,feature_request
+Delete my account please.,account_problem
+Demo request.,general_inquiry
+Multi-language support for profile?,feature_request
+Data not saving properly after new@example.com.,bug
+"Forgot password, reset not working.",account_problem
+Would love a query test button.,feature_request
+Request: dark mode for profile.,feature_request
+Upgrade to app but still on old.,billing_issue
+Dispute charge of $10.,billing_issue
+Dispute charge of login.,billing_issue
+Overcharged by Feb on $10.,billing_issue
+Search returns wrong results for query test.,bug
+Error dashboard when opening profile.,bug
+Profile pic not updating.,account_problem
+iOS button does nothing.,bug
+Payment not recognized for old@example.com.,billing_issue
+Feature idea: auto-query test.,feature_request
+Dispute charge of export.,billing_issue
+Account suspended without reason.,account_problem
+Feedback on PDF.,general_inquiry
+Contact sales for enterprise.,general_inquiry
+Please implement Slack like in competitors.,feature_request
+Where is my invoice for web?,billing_issue
+Shortcut keys for 500.,feature_request
+Recommended setup for save.,general_inquiry
+Merge accounts 404 and 500.,account_problem
+Would love a app button.,feature_request
+Payment not recognized for iOS.,billing_issue
+Profile pic not updating.,account_problem
+Feedback on basic.,general_inquiry
+Payment not recognized for new@example.com.,billing_issue
+Error dashboard when opening profile.,bug
+Account suspended without reason.,account_problem
+Cannot login: invalid credentials.,account_problem
+Billing error: card declined but charged.,billing_issue
+Dispute charge of $10.,billing_issue
+"Forgot password, reset not working.",account_problem
+Multi-language support for dashboard?,feature_request
+Access denied to app.,account_problem
+Multi-language support for premium?,feature_request
+Overcharged by login on save.,billing_issue
+Access denied to 2023-01.,account_problem
+Verify phone number issue.,account_problem
+Is query test available?,general_inquiry
