@@ -1,32 +1,6 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-venv/
-.venv/
-env/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Environment variables and secrets
-.env
-.env.*
-
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# IDE settings
-.vscode/
-.idea/
-
-# Python build files
-build/
-dist/
-*.egg-info/
-
-# Log files
-*.log
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
