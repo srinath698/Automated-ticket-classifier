@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: #231212;
+    --lavender: #e3e2f7;
+    --sage: #e5edd8;
+    --slate-canvas: #cbd7e2;
+    --card-gray: #f4f4f4;
+    --white: #ffffff;
+  }
+
+  body {
+    background-color: #cbd7e2;
+    color: #231212;
+    font-family: 'Satoshi', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    letter-spacing: -0.01em;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Monospace accents for scores/codes */
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    letter-spacing: -0.025em;
+  }
+
+  /* Satoshi custom utilities */
+  .font-satoshi {
+    font-family: 'Satoshi', sans-serif;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #23121220;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #23121240;
+  }
+}
+
+/* Wavy line animation and styling */
+.wavy-accent {
+  stroke-dasharray: 800;
+  stroke-dashoffset: 800;
+  animation: drawWavy 2.5s ease-out forwards;
+}
+
+@keyframes drawWavy {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
