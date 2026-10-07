@@ -1,0 +1,5 @@
+﻿{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://automated-ticket-classifier.onrender.com/api/:path*" }
+  ]
+}
