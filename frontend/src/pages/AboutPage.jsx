@@ -55,7 +55,7 @@ export default function AboutPage() {
           <span>Architecture & Design</span>
         </div>
         <h1 className="text-4xl sm:text-6xl font-black uppercase tracking-tight text-[#231212] leading-[0.95]">
-          HOW TICKETPULSE <br />
+          HOW TICKETTRIAGE <br />
           <span className="font-light italic tracking-normal">WORKS</span>
         </h1>
         <p className="text-sm sm:text-base text-[#231212]/70 max-w-2xl leading-relaxed pt-1">
@@ -165,7 +165,7 @@ export default function AboutPage() {
             Frequently Asked Questions
           </h2>
           <p className="text-xs text-[#231212]/60 mt-1">
-            Key architectural and operational decisions behind TicketPulse AI.
+            Key architectural and operational decisions behind TicketTriage.
           </p>
         </div>
 

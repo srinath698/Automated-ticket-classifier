@@ -149,7 +149,7 @@ Respond with a JSON object containing:
         endpoint = f"{GEMINI_API_BASE}/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
         system_instruction = (
-            f"You are TicketPulse AI, a helpful customer support assistant analyzing the following ticket:\n"
+            f"You are TicketTriage, a helpful customer support assistant analyzing the following ticket:\n"
             f"- Customer Ticket: \"{ticket_text}\"\n"
             f"- Category (Machine Learning): {predicted_category}\n"
             f"- Model Confidence: {confidence_percentage}%\n"

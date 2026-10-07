@@ -133,7 +133,7 @@ export default function ClassifierPage({ onNavigateTab }) {
         category: prediction.predicted_category,
         confidence: `${prediction.confidence_percentage}%`,
         department: prediction.recommended_routing.department,
-        action: 'Routed via TicketPulse AI',
+        action: 'Routed via TicketTriage',
       },
       null,
       2

@@ -1,4 +1,4 @@
-# 🎫 TicketPulse AI — Support Ticket Classification & Routing Assistant
+# 🎫 TicketTriage — Support Ticket Classification & Routing Assistant
 
 An end-to-end Machine Learning web application designed to automatically classify customer support tickets into relevant categories, recommend departmental routing, and provide grounded AI explanations.
 

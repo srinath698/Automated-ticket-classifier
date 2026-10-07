@@ -15,11 +15,11 @@ async def lifespan(app: FastAPI):
     classifier = get_classifier()
     print(f"Model loaded successfully with classes: {classifier.classes_}")
     yield
-    print("Shutting down TicketPulse AI service...")
+    print("Shutting down TicketTriage service...")
 
 
 app = FastAPI(
-    title="TicketPulse AI - Support Ticket Auto-Classifier & Routing Service",
+    title="TicketTriage - Support Ticket Auto-Classifier & Routing Service",
     description="Machine Learning service for support ticket classification, routing recommendations, and contextual explanations.",
     version="1.0.0",
     lifespan=lifespan,
@@ -45,7 +45,7 @@ else:
     @app.get("/")
     async def root():
         return {
-            "service": "TicketPulse AI Assistant API",
+            "service": "TicketTriage Assistant API",
             "status": "operational",
             "docs": "/docs",
             "health": "/api/health",

@@ -89,11 +89,11 @@ export default function App() {
               className="flex items-center gap-3 text-left group"
             >
               <div className="w-10 h-10 rounded-full bg-[#231212] text-white flex items-center justify-center font-black shadow-md group-hover:scale-105 transition-transform">
-                <span className="text-sm tracking-tighter">TP</span>
+                <span className="text-sm tracking-tighter">TT</span>
               </div>
               <div>
                 <span className="block text-base sm:text-lg font-black tracking-tight uppercase text-[#231212]">
-                  TicketPulse AI
+                  TicketTriage
                 </span>
                 <span className="block text-[10px] uppercase font-bold tracking-widest text-[#231212]/50">
                   Automated Triage
@@ -196,7 +196,7 @@ export default function App() {
         ────────────────────────────────────────────────────────────── */}
         <footer className="pt-8 sm:pt-12 border-t border-[#231212]/10 flex flex-col sm:flex-row sm:items-center justify-between gap-4 text-xs text-[#231212]/50">
           <div className="flex items-center gap-2">
-            <span className="font-bold uppercase tracking-wider text-[#231212]">TicketPulse AI</span>
+            <span className="font-bold uppercase tracking-wider text-[#231212]">TicketTriage</span>
             <span>·</span>
             <span>TF-IDF + Logistic Regression (scikit-learn)</span>
             <span>·</span>
